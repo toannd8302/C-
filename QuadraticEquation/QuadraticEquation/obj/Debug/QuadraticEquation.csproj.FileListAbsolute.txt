@@ -1,0 +1,7 @@
+C:\Users\toan0\source\repos\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+C:\Users\toan0\source\repos\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+C:\Users\toan0\source\repos\QuadraticEquation\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+C:\Users\toan0\source\repos\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.AssemblyReference.cache
+C:\Users\toan0\source\repos\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.csproj.CoreCompileInputs.cache
+C:\Users\toan0\source\repos\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+C:\Users\toan0\source\repos\QuadraticEquation\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

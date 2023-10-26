@@ -1,0 +1,7 @@
+C:\Users\toan0\source\repos\FirstCode\FirstCode\bin\Debug\FirstCode.exe.config
+C:\Users\toan0\source\repos\FirstCode\FirstCode\bin\Debug\FirstCode.exe
+C:\Users\toan0\source\repos\FirstCode\FirstCode\bin\Debug\FirstCode.pdb
+C:\Users\toan0\source\repos\FirstCode\FirstCode\obj\Debug\FirstCode.csproj.AssemblyReference.cache
+C:\Users\toan0\source\repos\FirstCode\FirstCode\obj\Debug\FirstCode.csproj.CoreCompileInputs.cache
+C:\Users\toan0\source\repos\FirstCode\FirstCode\obj\Debug\FirstCode.exe
+C:\Users\toan0\source\repos\FirstCode\FirstCode\obj\Debug\FirstCode.pdb
